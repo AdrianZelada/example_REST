@@ -1,0 +1,19 @@
+body{
+	background: #E6E6E6;
+}
+.ok{
+	background: #282923;
+	color:white;
+	width: 200px;
+	height: 100px;
+	font-size: 20px;
+	text-align: center;
+	border:none;
+	border-radius: 2px;
+}
+.add_element{
+	background: #B3C3CB;
+	width: 200px;
+	height: 30px;		
+	padding: 20px;
+}	
